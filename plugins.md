@@ -742,6 +742,15 @@ While Leaflet is meant to be as lightweight as possible, and focuses on a core s
 			<a href="https://github.com/makinacorpus/">Mathieu Leplatre</a>
 		</td>        
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/makinacorpus/Leaflet.AlmostOver">Leaflet.AlmostOver</a>
+		</td><td>
+			Adds new map over and click mouse events on paths with a tolerance distance.
+		</td><td>
+			<a href="https://github.com/makinacorpus/">Mathieu Leplatre</a>
+		</td>        
+	</tr>
 </table>
 
 
